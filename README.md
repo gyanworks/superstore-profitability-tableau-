@@ -30,7 +30,7 @@ This Tableau project analyzes the profitability performance of a national-level 
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](images/dashboard preview.png)  
+![Dashboard Screenshot](images/dashboard-preview.png)  
 *Includes analysis of discount tiers, product-level profitability, and sales vs profit performance*
 
 ---
